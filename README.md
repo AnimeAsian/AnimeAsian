@@ -21,7 +21,7 @@ experience.</h2>
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ansible/ansible-original.svg" height="30" alt="ansible logo"  />
+  <img src="https://www.svgrepo.com/show/473818/unity.svg" height="30" alt="unity logo"  />
   <img width="12" />
   <img src="https://upload.wikimedia.org/wikipedia/commons/9/93/Amazon_Web_Services_Logo.svg" height="30" alt="amazonwebservices logo"  />
   <img width="12" />
