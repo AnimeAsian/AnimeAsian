@@ -1,8 +1,8 @@
-<h2 align="left">Hi 👋! My name is Varad Kolte. <br>Analytical Software Engineer and Game Developer with 2+ years of experience in debugging,
-system testing, and defect management. Expert in identifying edge cases and ensuring 100% design
-coverage through rigorous manual testing. Technically proficient in Unity and Unreal Engine
+<h2 align="left">Hi 👋! My name is Varad Kolte. <br> Analytical Software Engineer and Game Developer with 2+ years of experience in debugging,
+system testing, and defect management. <br> Expert in identifying edge cases and ensuring 100% design
+coverage through rigorous manual testing. <br> Technically proficient in Unity and Unreal Engine
 architectures, allowing for deep-dive troubleshooting of gameplay mechanics, lighting, and physics.
-High-quality standards, from Greenlit stage-gate adherence to providing the best possible player
+<br> High-quality standards, from Greenlit stage-gate adherence to providing the best possible player
 experience.</h2>
 
 ###
@@ -23,7 +23,7 @@ experience.</h2>
   <img width="12" />
   <img src="https://www.svgrepo.com/show/473818/unity.svg" height="30" alt="unity logo"  />
   <img width="12" />
-  <img src="https://upload.wikimedia.org/wikipedia/commons/9/93/Amazon_Web_Services_Logo.svg" height="30" alt="amazonwebservices logo"  />
+  <img src="https://www.svgrepo.com/show/342328/unreal-engine.svg" height="30" alt="unreal engine logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" height="30" alt="bash logo"  />
   <img width="12" />
@@ -32,10 +32,6 @@ experience.</h2>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redhat/redhat-original.svg" height="30" alt="redhat logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="30" alt="docker logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jenkins/jenkins-line.svg" height="30" alt="jenkins logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" height="30" alt="kubernetes logo"  />
 </div>
 
 ###
