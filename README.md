@@ -1,4 +1,9 @@
-<h2 align="left">Hi 👋! My name is Varad Kolte. <br>Passionate and enthusiastic fresher DevOps engineer with a strong interest in automation and system optimization. Skilled in using various DevOps tools and technologies, such as Docker, Jenkins, AWS, and Python, to develop and deploy software applications.<br> Experienced in creating and maintaining CI/CD pipelines, automating system administration tasks, and collaborating with development teams to resolve system issues. <br>Proven ability to reduce deployment time, improve system reliability, and increase team productivity.</h2>
+<h2 align="left">Hi 👋! My name is Varad Kolte. <br>Analytical Software Engineer and Game Developer with 2+ years of experience in debugging,
+system testing, and defect management. Expert in identifying edge cases and ensuring 100% design
+coverage through rigorous manual testing. Technically proficient in Unity and Unreal Engine
+architectures, allowing for deep-dive troubleshooting of gameplay mechanics, lighting, and physics.
+High-quality standards, from Greenlit stage-gate adherence to providing the best possible player
+experience.</h2>
 
 ###
 
