@@ -1,9 +1,10 @@
-<h2 align="left">Hi 👋! My name is Varad Kolte. <br> Analytical Software Engineer and Game Developer with 2+ years of experience in debugging,
+<h2 align="left">Hi 👋! My name is Varad Kolte. </h2> 
+<h3 align="left">Analytical Software Engineer and Game Developer with 2+ years of experience in debugging,
 system testing, and defect management. <br> Expert in identifying edge cases and ensuring 100% design
 coverage through rigorous manual testing. <br> Technically proficient in Unity and Unreal Engine
 architectures, allowing for deep-dive troubleshooting of gameplay mechanics, lighting, and physics.
 <br> High-quality standards, from Greenlit stage-gate adherence to providing the best possible player
-experience.</h2>
+experience.</h3>
 
 ###
 
