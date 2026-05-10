@@ -9,9 +9,9 @@ experience.</h3>
 ###
 
 <div align="center">
-  <img src="![GitHub Stats](https://github-readme-stats-fast.vercel.app/api?username=AnimeAsian&show_icons=true&theme=tokyonight)" height="150" alt="stats graph"  />
-  <img src="![GitHub Stats](https://github-readme-stats-fast.vercel.app/api/streak?username=AnimeAsian&theme=tokyonight)" height="150" alt="streak graph"  />
-  <img src="![GitHub Stats](https://github-readme-stats-fast.vercel.app/api/top-langs/?username=AnimeAsian&layout=compact&theme=tokyonight)" height="150" alt="languages graph"  />
+  <img src="https://github-readme-stats-fast.vercel.app/api?username=AnimeAsian&show_icons=true&theme=tokyonight" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats-fast.vercel.app/api/streak?username=AnimeAsian&theme=tokyonight" height="150" alt="streak graph"  />
+  <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=AnimeAsian&layout=compact&theme=tokyonight" height="150" alt="languages graph"  />
 </div>
 
 ###
