@@ -1,0 +1,108 @@
+#education {
+  background: var(--mantle);
+}
+
+.edu-card {
+  background: var(--card);
+  border: 1px solid var(--border);
+  border-radius: 4px;
+  padding: 2rem;
+  display: flex;
+  gap: 2rem;
+  align-items: center;
+  flex-wrap: wrap;
+}
+
+.edu-badge {
+  font-family: var(--font-display);
+  font-size: 0.6rem;
+  letter-spacing: 2px;
+  text-transform: uppercase;
+  color: var(--accent2);
+  background: rgba(245, 194, 231, 0.1);
+  border: 1px solid rgba(245, 194, 231, 0.3);
+  border-radius: 2px;
+  padding: 0.4rem 0.9rem;
+  white-space: nowrap;
+}
+
+.edu-info h3 {
+  font-family: var(--font-display);
+  font-size: 1rem;
+  letter-spacing: 1px;
+  color: var(--text);
+  margin-bottom: 0.25rem;
+}
+
+.edu-info p {
+  font-size: 0.9rem;
+  color: var(--muted);
+}
+
+.edu-cgpa {
+  margin-left: auto;
+  text-align: right;
+}
+
+.cgpa-num {
+  font-family: var(--font-display);
+  font-size: 2rem;
+  font-weight: 900;
+  color: var(--accent);
+  line-height: 1;
+}
+
+.cgpa-label {
+  font-family: var(--font-mono);
+  font-size: 0.65rem;
+  color: var(--muted);
+  letter-spacing: 2px;
+}
+
+.volunteer-block {
+  margin-top: 2.5rem;
+}
+
+.volunteer-block .section-label {
+  margin-bottom: 1rem;
+}
+
+.vol-list {
+  display: flex;
+  flex-direction: column;
+  gap: 0.75rem;
+}
+
+.vol-item {
+  background: var(--card);
+  border: 1px solid var(--border);
+  border-radius: 4px;
+  padding: 1rem 1.5rem;
+  font-size: 0.9rem;
+  color: var(--subtext0);
+  position: relative;
+  padding-left: 2rem;
+}
+
+.vol-item::before {
+  content: '◈';
+  position: absolute;
+  left: 0.75rem;
+  color: var(--accent2);
+}
+
+.vol-item strong {
+  color: var(--text);
+  font-weight: 600;
+}
+
+@media (max-width: 768px) {
+  .edu-card {
+    flex-direction: column;
+    gap: 1.25rem;
+  }
+  .edu-cgpa {
+    margin-left: 0;
+    text-align: left;
+  }
+}

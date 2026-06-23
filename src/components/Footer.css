@@ -1,0 +1,15 @@
+footer {
+  text-align: center;
+  padding: 2rem;
+  border-top: 1px solid var(--border);
+  font-family: var(--font-mono);
+  font-size: 0.7rem;
+  color: var(--muted);
+  letter-spacing: 2px;
+  position: relative;
+  z-index: 1;
+}
+
+.footer-name {
+  color: var(--accent);
+}

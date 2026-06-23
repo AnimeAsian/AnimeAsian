@@ -1,0 +1,88 @@
+#experience {
+  background: var(--mantle);
+}
+
+.exp-list {
+  display: flex;
+  flex-direction: column;
+  gap: 1.5rem;
+}
+
+.exp-card {
+  background: var(--card);
+  border: 1px solid var(--border);
+  border-left: 3px solid var(--accent);
+  border-radius: 4px;
+  padding: 1.75rem 2rem;
+  transition: border-color 0.3s;
+  position: relative;
+}
+
+.exp-card:hover {
+  border-color: var(--accent);
+}
+
+.exp-header {
+  display: flex;
+  justify-content: space-between;
+  align-items: flex-start;
+  gap: 1rem;
+  margin-bottom: 0.75rem;
+  flex-wrap: wrap;
+}
+
+.exp-company {
+  font-family: var(--font-display);
+  font-size: 0.75rem;
+  letter-spacing: 2px;
+  color: var(--accent);
+  text-transform: uppercase;
+  margin-bottom: 0.2rem;
+}
+
+.exp-role {
+  font-size: 1.15rem;
+  font-weight: 600;
+  color: var(--text);
+}
+
+.exp-date {
+  font-family: var(--font-mono);
+  font-size: 0.72rem;
+  color: var(--muted);
+  white-space: nowrap;
+  padding: 0.3rem 0.75rem;
+  border: 1px solid var(--border);
+  border-radius: 2px;
+  height: fit-content;
+}
+
+.exp-points {
+  display: flex;
+  flex-direction: column;
+  gap: 0.5rem;
+  margin-top: 1rem;
+}
+
+.exp-points li {
+  font-size: 0.9rem;
+  color: var(--subtext0);
+  padding-left: 1.25rem;
+  position: relative;
+  line-height: 1.6;
+}
+
+.exp-points li::before {
+  content: '▸';
+  position: absolute;
+  left: 0;
+  color: var(--accent3);
+  font-size: 0.75rem;
+  top: 0.15em;
+}
+
+@media (max-width: 768px) {
+  .exp-header {
+    flex-direction: column;
+  }
+}
